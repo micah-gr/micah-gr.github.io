@@ -1,4 +1,4 @@
-Thanks for visiting my home page. I am a quantitative social scientist and professional researcher. Here are some [example research projects](https://www.micah-gr.github.io/projects.md) that illustrate my background and approach. 
+Thanks for visiting my home page. I am a quantitative social scientist and professional researcher. Here are some [example research projects](https://micah-gr.github.io/projects.md) that illustrate my background and approach. 
 
 In a previous life, I was an Assistant
 Professor at the [University of Georgia](https://www.uga.edu/) with a joint appointment in the
