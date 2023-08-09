@@ -1,5 +1,7 @@
 Thanks for visiting this page. I am a quantitative social scientist and professional researcher. Please consult these links for further information about my background and research {[google scholar](https://scholar.google.com/citations?user=6KLv8dEAAAAJ&hl=en), [professional CV](https://www.dropbox.com/scl/fi/o7xilz8e9tom1mrjhm2eq/Gell-Redman_CV_QuantUXR.pdf?rlkey=4rshpayh370qke5cm07bpxszg&dl=0), [LinkedIn](https://www.linkedin.com/in/micah-gell-redman/)}. The following is a description of one of my previous research projects.
+
 ---
+
 # Project: Measure user experience to facilitate growth of a massive private messaging network
 
 ## Role: Staff Quantitative User Researcher
