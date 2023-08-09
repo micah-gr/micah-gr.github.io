@@ -16,7 +16,7 @@ Thanks for visiting this page. I am a quantitative social scientist and professi
  - **Design hold-out** to test for the impact of platform experience on user sentiment and behavior.
  - Complete internal approvals and compliance to ensure **protection of research subjetcs**
  - Design and create survey instrument. **Implement** survey sample.
- - Clean, manage, and **analyze data**. Use observable traits of all individuals in sample to adjust for non-response bias (used iterative proportional weighting using the survey package in R).
+ - Clean, manage, and **analyze data**. Use observable traits of all individuals in sample to adjust for non-response bias.
  - **Communicate key results** in a way that made the problem, and the possible solutions, clear. Present strategically to XFN and leadership.
 
 ## Impact: 
