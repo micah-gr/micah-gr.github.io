@@ -12,33 +12,23 @@ Thanks for visiting this page. I am a quantitative social scientist and professi
 
  - **Leverage relationships** and **collaborate** with product and engineering to understand business needs and constraints
 
- - **Identify the contribution** of research to the problem. Settle on the appropriate methodology (on-platform user survey combined with a large scale hold-out)
+ - **Identify the contribution** of research to the problem and determine the appropriate methodology. **Articulate business value** of the proposed research to cross-functional partners.
 
- - **Articulate business value** of the proposed research to cross-functional partners.
-
- - **Design survey** items. Build script for cognitive testing. Recruit third-party to perform cognitive testing. Ensure the survey instrument is easy to understand and the ux of the survey is good.
-
- - Design **sampling** strategy and implement sample. Settled on a stratified sampling strategy in order to ensure sufficient sample size for users targeted users.
-
- - Use simulation to complete **power calcultaions**
+ - **Design survey items**. Build script for cognitive testing. Recruit third-party to perform cognitive testing. Ensure the survey instrument is easy to understand and the ux of the survey is good. **Design sampling strategy** and implement sample. Settled on a stratified sampling strategy in order to ensure sufficient sample size for users targeted users. Use simulation to complete **power calcultaions**. **Design hold-out** to test for the impact of platform experience on user sentiment and behavior.
 
  - Complete internal approvals and compliance to ensure **protection of research subjetcs**
 
- - Design and create survey instrument using internal tools. Implement survey sample using internal tools.
+ - Design and create survey instrument. **Implement** survey sample.
 
- - Clean, manage, **analyze data**. Use observables traits of all individuals in sample to adjust for non-response bias (iterative proportional weighting using the survey package in R). 
+ - Clean, manage, and **analyze data**. Use observable traits of all individuals in sample to adjust for non-response bias (used iterative proportional weighting using the survey package in R).
 
- - **Design hold-out** to test for the impact of platform experience on user sentiment and behavior.
-
- - **Communicate key results** in a way that made it clear - this is is a problem and we should do something about it (clean this up)
-
- - Prepare presentations for XFN and leadership. Make the case for (a) continuing investment in UX measurement, and (b) building a new product experience that 
+ - **Communicate key results** in a way that made the problem, and the possible solutions, clear. Present strategically to XFN and leadership.
 
 ## Impact: 
- - Support for UX measurement. Survey adopted as an ongoing source of truth about platform health
+ - **Gained leadership support** for UX measurement. Survey adopted as an ongoing source of truth about platform health.
 
- - Up-level the UX org through code-sharing, mentorship, systematizing best practices
+ - **Up-leveled** the UX org through code-sharing, mentorship, systematizing best practices.
  
- - Successfully advocate for a new product experience that expanded user voice (what else?)
+ - **Successfully advocated for a new product experience** that expanded user voice
 
 
