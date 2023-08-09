@@ -29,9 +29,7 @@ Thanks for visiting this page. I am a quantitative social scientist and professi
 
 ## Impact: 
  - **Gained leadership support** for UX measurement. Survey adopted as an ongoing source of truth about platform health.
-
+   
  - **Up-leveled** the UX org through code-sharing, mentorship, systematizing best practices.
- 
+   
  - **Successfully advocated for a new product experience** that expanded user voice
-
-
