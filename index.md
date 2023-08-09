@@ -2,13 +2,12 @@ Thanks for visiting this page. I am a quantitative social scientist and professi
 
 Here is an example of a previous project.
 
-# Project: 
+# Project: Measure user experience to facilitate growth
 Measure user value from business messages to ensure sustainable growth of a massive private messaging network
 
-# Role: 
-Staff Quantitative User Researcher
+# Role: Staff Quantitative User Researcher
 
-# Brief: 
+# Brief:  
 Create a new source of information about users' experience of business messages. Ensure user experience remains positive as platform grows.
 
 # Approach: 
